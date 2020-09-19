@@ -1,6 +1,6 @@
 ## Acortador de URL
 
-Script realizado en python que acorta URL a traves de la API de bit.ly
+acortador de URL realizado en python usando la API de Bitly
 
 
 
