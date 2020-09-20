@@ -25,7 +25,7 @@ Una vez activado el environment procedemos a instalar todas las libs necesarias 
 pip install -r requirements.txt
 ```
 
-Por ultimo corremos el script. Se le debe pasar como argumento la URL (real) que necesitemos acortar.
+Por ultimo corremos el script. Se le debe pasar como argumento la URL que necesitemos acortar.
 
 ```
 python acortador_url.py https://exampleurl/test
