@@ -11,8 +11,6 @@ acortador de URL realizado en python usando la API de [Bitly](https://bitly.com/
 
 ```
 pip install virtualenv
-dksjalkds dsljadl
-djkasldj djsaldj
 ```
 ```
 python -m virtualenv env
