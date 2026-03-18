@@ -1,3 +1,4 @@
+#acortador de URL
 import requests,sys,json
 
 long_url = sys.argv[1]
